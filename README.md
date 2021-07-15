@@ -1,4 +1,4 @@
-# Irrigataion-System
+# Irrigation-System
 
 This system is designed to irrigate from 1 to 8 planters or sections of a garden.  The strategy used is simply to measure the moisture content of the soil using soil resistance sensors and if it’s too low to actuate a valve.  Therefore, for eight planters, eight soil sensors and eight valves are needed.  An Arduino Nano (controller) is used to effectuate the process for opening and closing valves, and to communicate information with a home automation system.  
 
